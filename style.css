@@ -1,124 +1,140 @@
-body{
-	padding: 1em;
-	font-family: 'Roboto', sans-serif;
+body {
+    padding: 1em;
+    font-family: "Roboto", sans-serif;
 }
 
 p {
-	margin: 0;
+    margin: 0;
 }
 
 /************* Top Section ******************/
-.top_section{
-	padding: 0;
-	margin-bottom: 0;
+.top_section {
+    padding: 0;
+    margin-bottom: 0;
 }
 
-.intro{
-	color: #900C3F;
+.intro {
+    color: #900c3f;
 }
 
-.name{
-	text-transform: uppercase;
-	font-size: 2.5rem;
+.name {
+    text-transform: uppercase;
+    font-size: 2.5rem;
 }
 
-.job{
-	font-size: 2rem;
+.job {
+    font-size: 2rem;
 }
 
-.contact{
-	padding: 0;
-	font-size: 1rem;
-	text-align: justify;
+.contact {
+    padding: 0;
+    font-size: 1rem;
+    text-align: justify;
 }
 
-.fas, .fab {
-	color: #581845;
+.fas,
+.fab {
+    color: #581845;
 }
 /************* Middle Section ******************/
-.middle_section{}
+.middle_section {
+}
 
-.bio{}
+.bio {
+}
 
 hr {
-	height: 0.1rem;
-	background-color: #581845;
+    height: 0.1rem;
+    background-color: #581845;
 }
 
 blockquote {
-	text-align: justify;
-	border-left-color: #900C3F;
-	border-left-width:0.2rem;
+    text-align: justify;
+    border-left-color: #900c3f;
+    border-left-width: 0.2rem;
 }
 
 /************* Bottom Section ******************/
-.bottom_section{
-	margin-bottom: 0;
+.bottom_section {
+    margin-bottom: 0;
 }
 
-.headline{
-	font-size: 1.5rem;
-	margin-bottom: 1rem;
-	margin-top: 1rem;
-	padding: 0rem;
-	color: #900C3F;
+.headline {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    padding: 0rem;
+    color: #900c3f;
 }
 
 article {
-	margin-bottom: 1em;
-	margin-left: 1.5rem;
+    margin-bottom: 1em;
+    margin-left: 1.5rem;
 }
 
-.bottom_left{}
-
-.personal_projects{}
-
-.project_name{
-	font-size: 1.2rem;
-	font-weight: bold;
-	margin-top: 0.5rem;
+.bottom_left {
 }
 
-.project_link{}
-
-.project_details{
-	color: #4C4B4B;
+.job_name {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
 }
 
-.project_techs{
-	font-weight: bold;
+.personal_projects {
 }
 
-.education{}
-
-.versity_dept{}
-
-.versity_name{
-	font-size: 1rem;
-	font-weight: bold;
+.project_name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
 }
 
-.versity_area{
-	font-size: 1rem;
+.project_link {
 }
 
-.bottom_right{}
-
-.technical_skills{}
-
-.skill_list{
-	margin-bottom: 0;
+.project_details {
+    color: #4c4b4b;
 }
 
-.certifications{}
-
-.certificate_name{
-	font-size: 1.2rem;
-	font-weight: bold;
-	margin-top: 0.5rem;
+.project_techs {
+    font-weight: bold;
 }
 
-.certificate_link{
-	font-style: italic;
-	text-align: justify;
+.education {
+}
+
+.versity_dept {
+}
+
+.versity_name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.versity_area {
+    font-size: 1rem;
+}
+
+.bottom_right {
+}
+
+.technical_skills {
+}
+
+.skill_list {
+    margin-bottom: 0;
+}
+
+.certifications {
+}
+
+.certificate_name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.certificate_link {
+    font-style: italic;
+    text-align: justify;
 }
