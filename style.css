@@ -76,10 +76,14 @@ article {
 }
 
 .job_name {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 600;
-/*    margin-top: 0.5rem;
-*/}
+/*    margin-top: 0.5rem;  */
+}
+
+.company_name{
+    font-size: 1.1rem;
+}
 
 .personal_projects {
 }
