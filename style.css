@@ -78,10 +78,10 @@ article {
 .job_name {
     font-size: 1.1rem;
     font-weight: 600;
-/*    margin-top: 0.5rem;  */
+    /*    margin-top: 0.5rem;  */
 }
 
-.company_name{
+.company_name {
     font-size: 1.1rem;
 }
 
@@ -89,8 +89,8 @@ article {
 }
 
 .project_name {
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 1.1rem;
+    font-weight: 500;
     margin-top: 0.5rem;
 }
 
