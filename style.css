@@ -7,8 +7,18 @@ p {
     margin: 0;
 }
 
-/************* Top Section ******************/
-.top_section {
+article {
+    margin-left: 0 !important;
+}
+
+@media print {
+    .page_break {
+        page-break-after: always;
+    }
+}
+
+/************* First Section ******************/
+.first_section {
     padding: 0;
     margin-bottom: 0;
 }
@@ -36,8 +46,8 @@ p {
 .fab {
     color: #581845;
 }
-/************* Middle Section ******************/
-.middle_section {
+/************* Second Section ******************/
+.second_section {
 }
 
 .bio {
@@ -54,8 +64,8 @@ blockquote {
     border-left-width: 0.2rem;
 }
 
-/************* Bottom Section ******************/
-.bottom_section {
+/************* Third Section ******************/
+.third_section {
     margin-bottom: 0;
 }
 
@@ -85,24 +95,8 @@ article {
     font-size: 1.1rem;
 }
 
-.personal_projects {
-}
-
-.project_name {
-    font-size: 1.1rem;
-    font-weight: 500;
-    margin-top: 0.5rem;
-}
-
-.project_link {
-}
-
-.project_details {
-    color: #4c4b4b;
-}
-
-.project_techs {
-    font-weight: bold;
+.project_disc {
+    margin-left: 1.5rem;
 }
 
 .education {
@@ -130,12 +124,52 @@ article {
     margin-bottom: 0;
 }
 
+/************* Fourth Section ******************/
+.fourth_section {
+    margin-top: 2rem;
+}
+
+.fourth_left {
+}
+
+.fourth_right {
+}
+
+/************* fifth Section ******************/
+.fifth_section {
+    margin-top: 2rem;
+}
+
+.fifth_left {
+}
+
+.personal_projects {
+}
+
+.project_name {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 0.5rem;
+}
+
+.project_link {
+}
+
+.project_details {
+    color: #4c4b4b;
+}
+
+.project_techs {
+}
+
+.fifth_right {
+}
+
 .certifications {
 }
 
 .certificate_name {
-    font-size: 1.2rem;
-    font-weight: bold;
+    font-size: 1rem;
     margin-top: 0.5rem;
 }
 
