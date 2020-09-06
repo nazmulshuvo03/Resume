@@ -1,6 +1,7 @@
 body {
     padding: 1em;
     font-family: "Roboto", sans-serif;
+    text-justify: newspaper;
 }
 
 p {
@@ -86,13 +87,14 @@ article {
 }
 
 .job_name {
-    font-size: 1.1rem;
-    font-weight: 600;
+    font-size: 1.2rem;
+    font-weight: 700;
     /*    margin-top: 0.5rem;  */
 }
 
 .company_name {
     font-size: 1.1rem;
+    font-weight: 300;
 }
 
 .project_disc {
@@ -135,20 +137,12 @@ article {
 .fourth_right {
 }
 
-/************* fifth Section ******************/
-.fifth_section {
-    margin-top: 2rem;
-}
-
-.fifth_left {
-}
-
 .personal_projects {
 }
 
 .project_name {
     font-size: 1.1rem;
-    font-weight: 500;
+    font-weight: 700;
     margin-top: 0.5rem;
 }
 
@@ -162,9 +156,6 @@ article {
 .project_techs {
 }
 
-.fifth_right {
-}
-
 .certifications {
 }
 
@@ -176,4 +167,5 @@ article {
 .certificate_link {
     font-style: italic;
     text-align: justify;
+    font-size: 10px;
 }
